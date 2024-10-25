@@ -13,8 +13,9 @@ Langkah-langkah Algoritma:
 
 FLOWCHART
 
-![Diagram Tanpa Judul drawio](https://github.com/user-attachments/assets/c048f7bc-c740-4378-b311-dd9c6a220899)
+![Diagram Tanpa Judul](https://github.com/user-attachments/assets/40385262-e63a-4296-884a-db6f871fa6c3)
+
 
 HASIL PROGRAM
+![Capture 636](https://github.com/user-attachments/assets/0e388a0a-4976-414e-a57a-b2807a24f340)
 
-![111](https://github.com/user-attachments/assets/428a45e6-43c3-441d-b044-8a018d930c4f)
